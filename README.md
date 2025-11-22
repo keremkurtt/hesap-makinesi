@@ -18,9 +18,9 @@ Her şey tek bir HTML dosyasında bulunduğu için kurulum gerektirmez.
 ---
 
 ## ▶️ Nasıl Çalıştırılır?
-1. Bu repo'yu bilgisayarınıza indirin veya klonlayın:
+1. Bu repo'yu bilgisayarınıza indirin:
    ```bash
-   git clone https://github.com/kullaniciadi/hesap-makinesi.git
+   git clone https://github.com/keremkurtt/hesap-makinesi.git
    ```
 
 2. Proje klasörünün içine girin:
@@ -31,16 +31,3 @@ Her şey tek bir HTML dosyasında bulunduğu için kurulum gerektirmez.
 3. **index.html** dosyasını çift tıklayarak açın.
    - Herhangi bir tarayıcıda direkt çalışır.
    - Ek bir kurulum gerekmez.
-
----
-
-## 🌐 GitHub Pages Üzerinde Yayınlamak
-1. GitHub deposunda **Settings → Pages** bölümüne girin.
-2. "Deploy from a branch" seçin.
-3. **main** branch ve **root** klasörü seçin.
-4. Kaydedin — site birkaç dakika içinde aktif olur.
-
----
-
-Hazırsanız projeyi GitHub'a ekleyebilir veya özelleştirmeye devam edebiliriz!
-
