@@ -28,6 +28,6 @@ Her şey tek bir HTML dosyasında bulunduğu için kurulum gerektirmez.
    cd hesap-makinesi
    ```
 
-3. **index.html** dosyasını çift tıklayarak açın.
+3. **hesap-makinesi.html** dosyasını çift tıklayarak açın.
    - Herhangi bir tarayıcıda direkt çalışır.
    - Ek bir kurulum gerekmez.
