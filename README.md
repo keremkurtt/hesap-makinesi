@@ -1,5 +1,5 @@
 # 📟 Hesap Makinesi
-Basit, modern ve duyarlı bir **HTML + CSS + JavaScript hesap makinesi** uygulamasıdır. GitHub Pages üzerinde kolayca yayınlanabilir, mobil ve masaüstü cihazlarda kusursuz çalışır.
+Basit, modern ve duyarlı bir **HTML + CSS + JavaScript hesap makinesi** uygulamasıdır, mobil ve masaüstü cihazlarda kusursuz çalışır.
 
 ---
 
